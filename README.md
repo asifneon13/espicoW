@@ -4,7 +4,7 @@ A comprehensive MicroPython WiFi library for Chinese Raspberry Pi Pico W clones 
 
 ## Acknowledgments
 
-This library builds upon the foundational work of **[mocacinno](https://github.com/mocacinno/rp2040_with_esp8285)**, who first demonstrated how to make WiFi functionality work on Chinese Pico W boards with ESP8285 chips. Their initial implementation and documentation provided the essential groundwork that made this enhanced library possible.
+This library builds upon the foundational work of **[JiriBilek]([https://github.com/mocacinno/rp2040_with_esp8285](https://github.com/JiriBilek))**, who first demonstrated how to make WiFi functionality work on Chinese Pico W boards with ESP8285 chips. Their initial implementation and documentation provided the essential groundwork that made this enhanced library possible.
 
 We also acknowledge the inspiration drawn from **[JiriBilek's ESP_ATMod firmware](https://github.com/JiriBilek/ESP_ATMod)** and the **[WiFiEspAT Arduino library](https://github.com/JAndrassy/WiFiEspAT)**.
 
